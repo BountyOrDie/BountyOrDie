@@ -62,16 +62,16 @@
 ## 👥 Team Members
 
 * 👨‍💻 **[Yassin (khoof)](https://hackerone.com/khoof?type=user)** <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone" />
-  *Bug Bounty Hunter*
+  *Offensive Security Engineer && Bug Bounty Hunter*
 
 * 👨‍💻 **[Karim (0xkarim_dix)](https://hackerone.com/0xkarim_dix?type=user)** <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone" />
-  *Bug Bounty Hunter*
+  *Offensive Security Engineer && Bug Bounty Hunter*
 
 * 👨‍💻 **[Ahmed (Mozaaaaa)](https://hackerone.com/Mozaaaaa?type=user)** <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone" />
-  *Bug Bounty Hunter*
+  *Offensive Security Engineer && Bug Bounty Hunter*
 
 * 👨‍💻 **[Youssef (Y0s3trex)](https://hackerone.com/Y0s3trex?type=user)** <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone" />
-  *Bug Bounty Hunter*
+  *Offensive Security Engineer && Bug Bounty Hunter*
 
 * 👨‍💻 **[Abdelrhman (A0xTrojan)](https://hackerone.com/A0xTrojan?type=user)** <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone" />
   *Pentester @buguard*
